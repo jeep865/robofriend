@@ -1,4 +1,3 @@
-import react from "react";
 
 const SearchBox = ({ Searchfield, searchChange }) => {
     return (
